@@ -86,6 +86,6 @@ public class DesignerProperties {
   private String objectAutonumerationMode = "";
 
   @XStreamAlias("IncludeInCommandInterface")
-  boolean includeInCommandInterface;
+  private boolean includeInCommandInterface;
 
 }
